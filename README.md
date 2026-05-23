@@ -1,151 +1,186 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:238636,100:8957e5&height=180&section=header&text=Ziv%20Grinblat&fontSize=48&fontColor=ffffff&animation=twinkling" alt="Header banner" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Security+Engineer+%40+eToro;AI-curious+%E2%80%A2+always+learning;Backend%2C+security+%26+beyond" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Security+Engineer+%40+eToro;Securing+fintech+%E2%80%A2+building+with+AI;Always+learning+something+new" alt="Typing intro" />
 
 <br/>
 
-**Security engineer in fintech — I ship and secure production systems, and I’m deep into AI on my own time.**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4d2e2e58b133.gif" width="28" alt="security" />
+<strong>Security engineer</strong> in production fintech &nbsp;·&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa73-6032-49b2-b666-7c7cb3ede1dd.gif" width="28" alt="ai" />
+<strong>AI-obsessed</strong> after hours &nbsp;·&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b9-8d69-7b96c9f6aaca.gif" width="28" alt="learn" />
+<strong>Lifelong learner</strong>
 
-<br/>
+<br/><br/>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Security](https://img.shields.io/badge/Focus-Security_%26_AI-FF6F00?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/ZivGrinblat/secret-scanner)
-[![eToro](https://img.shields.io/badge/eToro-Security_Engineer-6FCF97?style=for-the-badge)](https://www.etoro.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Security](https://img.shields.io/badge/Role-Security_Engineer-0d1117?style=for-the-badge&logo=shield&logoColor=58A6FF)](https://github.com/ZivGrinblat/secret-scanner)
+[![AI](https://img.shields.io/badge/Passion-AI_%26_LLM-8957e5?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/ZivGrinblat/ai-learning-job-assistant)
+[![eToro](https://img.shields.io/badge/eToro-Fintech-238636?style=for-the-badge)](https://www.etoro.com/)
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=ZivGrinblat&label=Visitors&color=58A6FF&style=flat-square)](https://github.com/ZivGrinblat)
+![Building](https://img.shields.io/badge/🔭_Now-ai--learning--job--assistant-1f6feb?style=flat-square)
+![Exploring](https://img.shields.io/badge/🧠_Into-LLMs_%7C_AppSec_%7C_agents-8957e5?style=flat-square)
+![Learning](https://img.shields.io/badge/📖_Languages-DE_%7C_FR-238636?style=flat-square)
+
+<br/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=ZivGrinblat&label=Profile%20views&color=58A6FF&style=flat-square)](https://github.com/ZivGrinblat)
 
 </div>
 
----
-
-## About me
-
-Hi — I'm **Ziv**, a **Security Engineer at [eToro](https://www.etoro.com)** in **fintech**.
-
-My day-to-day spans **security engineering** and **hands-on backend work** — APIs, production services, reliability, and making sure systems are **safe and shippable**, not just functional. I don’t sit in only one lane: I care how code runs, how it’s exposed, and what can go wrong when it does.
-
-Outside work, I’m **all-in on AI** — assistants, LLM workflows, and tools that help people **learn and build faster**. I learn by doing: small experiments, real repos, and turning curiosity into commits.
-
-> *Learning isn’t a side quest for me — it’s how I level up. Security, AI, languages, new stacks: if it teaches me something, I’m in.*
-
----
-
-## What I'm into
-
-```text
-  🛡️ Application & platform security · secure backend design
-  🤖 LLMs · agents · AI-assisted learning
-  ⚡ Production APIs · Python · systems at scale
-  📚 Always studying — tech, German, French, and good books
-```
-
-| Area | What fascinates me |
-|------|-------------------|
-| **Security** | Safe automation, secrets hygiene, practical defensive engineering |
-| **AI** | Learning & job assistants, LLM workflows, shippable AI products |
-| **Engineering** | Backend services, observability, software under real traffic |
-| **Growth** | Cloud, DevOps, microservices — and whatever AI ships next week |
-
----
-
-## What I'm building
+<img src="https://capsule-render.vercel.app/api?type=soft&color=58A6FF&height=36&section=header&text=About%20me&fontSize=18&fontColor=ffffff" width="100%" alt="About section" />
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### [ai-learning-job-assistant](https://github.com/ZivGrinblat/ai-learning-job-assistant)
+### 👋 Hey, I'm Ziv
 
-**My current AI playground** — Python backend growing into an **AI-powered learning & job assistant**.
+**Security Engineer at [eToro](https://www.etoro.com)** — fintech at real scale.
 
-How can software help people **study smarter** and **navigate careers** with modern AI?
+I work across **security engineering** and **backend delivery**: APIs, production services, and making systems **safe to ship**, not only functional. I think about exposure, failure modes, and what breaks under load.
 
-`Python` · backend-first · learning in public
+After work, I'm **deep in AI** — assistants, LLM workflows, and tools that help people **learn and build faster**.
 
 </td>
-<td width="50%">
+<td width="40%" valign="top">
 
-### [secret-scanner](https://github.com/ZivGrinblat/secret-scanner)
+### ⚡ Quick facts
 
-**Security × automation** — finds leaked **AWS keys**, **GitHub tokens**, passwords, and more in codebases.
+```text
+🏢  eToro · Security Engineer
+🛡️  AppSec · backends · production
+🤖  AI side projects on GitHub
+📚  Books · German · French
+🤝  Mental-health volunteering
+```
 
-Built step-by-step; close to what I care about professionally.
+</td>
+</tr>
+</table>
 
-`Python` · AppSec · developer tooling
+> *Learning isn't a side quest — it's how I level up. Security, AI, languages, new stacks: if it teaches me something, I'm in.*
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8957e5&height=36&section=header&text=What%20drives%20me&fontSize=18&fontColor=ffffff" width="100%" alt="Focus section" />
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🛡️
+**Security**
+
+Secrets hygiene · secure APIs · defensive engineering · tooling that catches mistakes early
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+**AI**
+
+LLMs · agents · learning assistants · practical workflows you can actually ship
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️
+**Engineering**
+
+Python backends · Docker · CI/CD · cloud · systems under real traffic
+
+</td>
+<td align="center" width="25%">
+
+### 🌱
+**Growth**
+
+Microservices · brokers · cloud-native — plus whatever AI releases next week
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=238636&height=36&section=header&text=Featured%20projects&fontSize=18&fontColor=ffffff" width="100%" alt="Projects section" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ZivGrinblat/ai-learning-job-assistant">
+<img src="https://img.shields.io/badge/⭐_ai--learning--job--assistant-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="AI project" />
+</a>
+
+<br/><br/>
+
+**My AI playground** — Python backend evolving into an **AI-powered learning & job assistant**.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/status-active_build-238636?style=flat-square)](https://github.com/ZivGrinblat/ai-learning-job-assistant)
+[![Theme](https://img.shields.io/badge/theme-AI_learning-8957e5?style=flat-square)](https://github.com/ZivGrinblat/ai-learning-job-assistant)
+
+*How can software help people study smarter and navigate careers with modern AI?*
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ZivGrinblat/secret-scanner">
+<img src="https://img.shields.io/badge/🔐_secret--scanner-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Security project" />
+</a>
+
+<br/><br/>
+
+**Security × automation** — scans repos for leaked **AWS keys**, **GitHub tokens**, passwords, and more.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![AppSec](https://img.shields.io/badge/focus-AppSec-FF6F00?style=flat-square)](https://github.com/ZivGrinblat/secret-scanner)
+[![Tooling](https://img.shields.io/badge/type-dev_tooling-0d1117?style=flat-square)](https://github.com/ZivGrinblat/secret-scanner)
+
+*Built incrementally — close to what I care about professionally.*
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-*Also active on **repmap** (private Python project)*
+<sub>🔒 Also building <strong>repmap</strong> (private) · Python</sub>
 
 </td>
 </tr>
 </table>
 
----
-
-## Toolbox
+<img src="https://capsule-render.vercel.app/api?type=soft&color=58A6FF&height=36&section=header&text=Toolbox&fontSize=18&fontColor=ffffff" width="100%" alt="Toolbox section" />
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,docker,linux,bash,postgres,mongodb,aws,gcp,github,githubactions,kafka,flask&perline=8)](https://skillicons.dev)
-
-<br/><br/>
-
-| | |
-|:---:|:---:|
-| 🔒 **Security** | AppSec · secrets · secure APIs · production hardening |
-| 🤖 **AI** | LLMs · agents · learning tools · experiments on GitHub |
-| ⚙️ **Engineering** | Python backends · Docker · CI/CD · cloud (AWS/GCP) |
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,docker,linux,bash,postgres,mongodb,aws,gcp,github,githubactions,kafka,flask,django&perline=8&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
-
-## Experience
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1f6feb&height=36&section=header&text=Experience&fontSize=18&fontColor=ffffff" width="100%" alt="Experience section" />
 
 | | |
-|---|---|
-| **[eToro](https://www.etoro.com)** | **Security Engineer** — security-focused work plus **backend** delivery in fintech at scale |
-| **NeoGames** | **NOC engineer** — monitoring, incidents, live platform reliability |
-| **Ramat-Gan Municipality** | **Full-stack** — internal tools for municipal services |
+|:---|:---|
+| 🏦 **[eToro](https://www.etoro.com)** | **Security Engineer** — security + **backend** in high-scale fintech |
+| 🎮 **NeoGames** | **NOC Engineer** — monitoring, incidents, live reliability |
+| 🏛️ **Ramat-Gan Municipality** | **Full-stack** — internal municipal systems |
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8957e5&height=36&section=header&text=Always%20learning&fontSize=18&fontColor=ffffff" width="100%" alt="Learning section" />
 
-## Tech I use
+```text
+  📌 Now     AI-assisted apps · AppSec · async Python · microservices · CI/CD · cloud
+  🗣️ Langs   German & French — same discipline as new frameworks
+  📖 Habits   Books · deep dives · experiments → commits
+```
 
-**Security & backend:** Python · JavaScript/TypeScript · REST APIs · secure service design  
+<img src="https://capsule-render.vercel.app/api?type=soft&color=238636&height=36&section=header&text=Giving%20back&fontSize=18&fontColor=ffffff" width="100%" alt="Volunteering section" />
 
-**Data:** PostgreSQL · SQL Server · MongoDB  
+Volunteering in **mental-health support** · maintaining a **nonprofit website** for an organization in that space.
 
-**Platform:** Docker · Linux · Bash · GitHub Actions · AWS / GCP  
-
-**Also:** Django · Flask · Node.js · Firebase · webhooks & event-driven integrations  
-
-**AI (personal focus):** LLM-backed apps · AI-assisted workflows · tooling around safe, practical AI  
-
----
-
-## Always learning
-
-- **Now:** AI-assisted apps, AppSec patterns, async Python, microservices, Kafka/RabbitMQ, CI/CD & cloud
-- **Languages:** **German** and **French** — same discipline as new frameworks
-- **Off-screen:** books, deep dives, and the next commit
-
----
-
-## Giving back
-
-I volunteer in **mental-health support** and help maintain a **nonprofit website** for an organization in that space.
-
----
-
-## Let's connect
+<img src="https://capsule-render.vercel.app/api?type=soft&color=58A6FF&height=36&section=header&text=Let%27s%20connect&fontSize=18&fontColor=ffffff" width="100%" alt="Connect section" />
 
 <div align="center">
 
@@ -154,14 +189,26 @@ I volunteer in **mental-health support** and help maintain a **nonprofit website
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-ZivGrin1995@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ZivGrin1995@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ZivGrinblat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZivGrinblat)
+[![GitHub](https://img.shields.io/badge/GitHub-@ZivGrinblat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZivGrinblat)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Security_by_role-0d1117?style=flat-square&labelColor=1f6feb"/>
+<img src="https://img.shields.io/badge/AI_by_obsession-0d1117?style=flat-square&labelColor=8957e5"/>
+<img src="https://img.shields.io/badge/Learning_by_default-0d1117?style=flat-square&labelColor=238636"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:238636,100:8957e5&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%86%91%20Star%20a%20repo%20if%20you%20like%20what%20you%20see.&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer banner" />
+
+<details>
+<summary>🏆 GitHub trophies (click to expand)</summary>
+<br/>
 
 <div align="center">
 
-<sub>Security by role · AI by obsession · Learning by default</sub>
+<img src="https://github-profile-trophy.vercel.app/?username=ZivGrinblat&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 </div>
+
+</details>
