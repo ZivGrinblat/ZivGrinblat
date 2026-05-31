@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Security+Engineer+%40+eToro;Securing+fintech+%E2%80%A2+building+with+AI;Always+learning+something+new" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Security+Engineer+%40+eToro;Building+agentic+%26+research+tools;Exploring+biology+%C3%97+software" alt="Typing intro" />
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4d2e2e58b133.gif" width="28" alt="security" />
 <strong>Security engineer</strong> in production fintech &nbsp;·&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa73-6032-49b2-b666-7c7cb3ede1dd.gif" width="28" alt="ai" />
-<strong>AI-obsessed</strong> after hours &nbsp;·&nbsp;
+<strong>Agentic AI &amp; backends</strong> &nbsp;·&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b9-8d69-7b96c9f6aaca.gif" width="28" alt="learn" />
 <strong>Lifelong learner</strong>
 
@@ -18,13 +18,14 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Security](https://img.shields.io/badge/Role-Security_Engineer-0d1117?style=for-the-badge&logo=shield&logoColor=58A6FF)](https://github.com/ZivGrinblat/secret-scanner)
 [![AI](https://img.shields.io/badge/Passion-AI_%26_LLM-8957e5?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/ZivGrinblat/ai-learning-job-assistant)
-[![eToro](https://img.shields.io/badge/eToro-Fintech-238636?style=for-the-badge)](https://www.etoro.com/)
+[![Live](https://img.shields.io/badge/Portfolio-Live_on_Render-238636?style=for-the-badge)](https://ai-learning-job-assistant.onrender.com)
 
 <br/>
 
 ![Building](https://img.shields.io/badge/🔭_Now-ai--learning--job--assistant-1f6feb?style=flat-square)
-![Exploring](https://img.shields.io/badge/🧠_Into-LLMs_%7C_AppSec_%7C_agents-8957e5?style=flat-square)
-![Learning](https://img.shields.io/badge/📖_Languages-DE_%7C_FR-238636?style=flat-square)
+![Looking for](https://img.shields.io/badge/🎯_Roles-Agentic_Engineer_%7C_Researcher_%7C_Bio_Health-8957e5?style=flat-square)
+![Exploring](https://img.shields.io/badge/🧠_Into-LLMs_%7C_AppSec_%7C_bioinformatics-238636?style=flat-square)
+![Learning](https://img.shields.io/badge/📖_Languages-DE_%7C_FR-1f6feb?style=flat-square)
 
 <br/>
 
@@ -44,7 +45,9 @@
 
 I work across **security engineering** and **backend delivery**: APIs, production services, and making systems **safe to ship**, not only functional. I think about exposure, failure modes, and what breaks under load.
 
-After work, I'm **deep in AI** — assistants, LLM workflows, and tools that help people **learn and build faster**.
+After work, I build **fullstack projects** that combine **FastAPI**, **LLM-powered agents**, and **biology-adjacent tooling** — shipped on [Render](https://ai-learning-job-assistant.onrender.com) with real tests, not tutorial clones.
+
+**Currently exploring roles as:** Agentic Engineer · Researcher · Biology &amp; Healthcare engineering.
 
 </td>
 <td width="40%" valign="top">
@@ -54,7 +57,9 @@ After work, I'm **deep in AI** — assistants, LLM workflows, and tools that hel
 ```text
 🏢  eToro · Security Engineer
 🛡️  AppSec · backends · production
-🤖  AI side projects on GitHub
+🤖  LLM agents · OpenAI · FastAPI
+🧬  Bioinformatics side experiments
+🌐  Live portfolio on Render
 📚  Books · German · French
 🤝  Mental-health volunteering
 ```
@@ -80,9 +85,17 @@ Secrets hygiene · secure APIs · defensive engineering · tooling that catches 
 <td align="center" width="25%">
 
 ### 🤖
-**AI**
+**Agentic AI**
 
-LLMs · agents · learning assistants · practical workflows you can actually ship
+LLM workflows · related-notes agents · learning assistants · features you can ship and test
+
+</td>
+<td align="center" width="25%">
+
+### 🧬
+**Research &amp; Bio**
+
+DNA analysis APIs · research tooling · biology × software experiments
 
 </td>
 <td align="center" width="25%">
@@ -90,15 +103,7 @@ LLMs · agents · learning assistants · practical workflows you can actually sh
 ### ⚙️
 **Engineering**
 
-Python backends · Docker · CI/CD · cloud · systems under real traffic
-
-</td>
-<td align="center" width="25%">
-
-### 🌱
-**Growth**
-
-Microservices · brokers · cloud-native — plus whatever AI releases next week
+Python · FastAPI · SQLite · Docker · pytest · CI/CD · cloud
 
 </td>
 </tr>
@@ -116,13 +121,19 @@ Microservices · brokers · cloud-native — plus whatever AI releases next week
 
 <br/><br/>
 
-**My AI playground** — Python backend evolving into an **AI-powered learning & job assistant**.
+**Portfolio + learning lab** — one FastAPI backend, three live apps:
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/status-active_build-238636?style=flat-square)](https://github.com/ZivGrinblat/ai-learning-job-assistant)
-[![Theme](https://img.shields.io/badge/theme-AI_learning-8957e5?style=flat-square)](https://github.com/ZivGrinblat/ai-learning-job-assistant)
+[![Live demo](https://img.shields.io/badge/demo-ai--learning--job--assistant.onrender.com-238636?style=flat-square)](https://ai-learning-job-assistant.onrender.com)
+[![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ZivGrinblat/ai-learning-job-assistant)
+[![Tests](https://img.shields.io/badge/tests-pytest-8957e5?style=flat-square)](https://github.com/ZivGrinblat/ai-learning-job-assistant)
 
-*How can software help people study smarter and navigate careers with modern AI?*
+| Surface | What |
+|---------|------|
+| **Home** | Portfolio · skills · experience |
+| **Book Notes** | Reading notes + **OpenAI** related-note connections |
+| **DNA Lab** | GC content · complement · nucleotide counts |
+
+*109 tests · Docker · Render · SQLite with persistent disk*
 
 </td>
 <td width="50%" valign="top">
@@ -135,7 +146,7 @@ Microservices · brokers · cloud-native — plus whatever AI releases next week
 
 **Security × automation** — scans repos for leaked **AWS keys**, **GitHub tokens**, passwords, and more.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ZivGrinblat/secret-scanner)
 [![AppSec](https://img.shields.io/badge/focus-AppSec-FF6F00?style=flat-square)](https://github.com/ZivGrinblat/secret-scanner)
 [![Tooling](https://img.shields.io/badge/type-dev_tooling-0d1117?style=flat-square)](https://github.com/ZivGrinblat/secret-scanner)
 
@@ -171,7 +182,8 @@ Microservices · brokers · cloud-native — plus whatever AI releases next week
 <img src="https://capsule-render.vercel.app/api?type=soft&color=8957e5&height=36&section=header&text=Always%20learning&fontSize=18&fontColor=ffffff" width="100%" alt="Learning section" />
 
 ```text
-  📌 Now     AI-assisted apps · AppSec · async Python · microservices · CI/CD · cloud
+  📌 Now     Agent orchestration · OpenAI APIs · bioinformatics · async Python · Docker · Render
+  🎯 Target  Agentic Engineer · Researcher · Biology & Healthcare roles
   🗣️ Langs   German & French — same discipline as new frameworks
   📖 Habits   Books · deep dives · experiments → commits
 ```
@@ -184,17 +196,19 @@ Volunteering in **mental-health support** · maintaining a **nonprofit website**
 
 <div align="center">
 
-**Happy to talk security, backend, AI, fintech, and side projects.**
+**Happy to talk security, backend, agentic AI, research tooling, bio/health tech, and side projects.**
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_site-238636?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai-learning-job-assistant.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziv_Grinblat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziv-grinblat-69429a257/)
 [![Email](https://img.shields.io/badge/Email-ZivGrin1995@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ZivGrin1995@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@ZivGrinblat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZivGrinblat)
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Security_by_role-0d1117?style=flat-square&labelColor=1f6feb"/>
-<img src="https://img.shields.io/badge/AI_by_obsession-0d1117?style=flat-square&labelColor=8957e5"/>
+<img src="https://img.shields.io/badge/Agentic_AI_by_building-0d1117?style=flat-square&labelColor=8957e5"/>
 <img src="https://img.shields.io/badge/Learning_by_default-0d1117?style=flat-square&labelColor=238636"/>
 
 </div>
